@@ -5,25 +5,30 @@ using System.Text;
 namespace SingletonDemo
 {
 
-    //This code works when single thread is trying to create instance of a class
-    //This is not enough to handle multiple thread
-
-    //Making this as sealed so it cannot be inherited
+    //Sealed restricts the inheritance
     public sealed class Singleton
     {
         private static int counter = 0;
+        private static readonly object obj= new object();
         private static Singleton instance = null;
-        //As the class is sealed we need to provide an alternate way to give back the singleton object creation
+        // Public property is used to return only one instance of the class
+        // leveraging on the private property
         public static Singleton GetInstance
         {
             get
             {
                 if (instance == null)
-                    instance = new Singleton();
+                {
+                    lock (obj)
+                    {
+                        if (instance == null)
+                            instance = new Singleton();
+                    }
+                }
                 return instance;
             }
         }
-        //Using private constructor to avoid multiple instance creation of a class
+        //Private constructor ensures that object is not instantiated other than within the class itself
         private Singleton()
         {
             counter++;
