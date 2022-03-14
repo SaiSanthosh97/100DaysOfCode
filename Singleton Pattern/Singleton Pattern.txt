@@ -19,6 +19,7 @@ Implementation Guidelines
   - The instance is stored as a private static variable
 
 Why need sealed class when we already using private constructor?
-Private constructor helps in preventing any external instantiation of object but sealed will prevent Inheritance
+Private constructor helps in preventing any external instantiation of object but sealed will prevent Inheritance. 
+When we don't make our class sealed. It is possible to create object within the class and create an instance. With this we will be violating the principle of Singleton
 
 
