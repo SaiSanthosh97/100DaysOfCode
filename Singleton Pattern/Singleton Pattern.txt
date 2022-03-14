@@ -1,0 +1,5 @@
+Singleton is like a single resource which is being shared among multiple users; for example - sharing a single washing machine among all the residents in a hotel or sharing a single appliance like refrigerator among all the family members.
+
+From Wikipedia, "The singleton pattern is a software design pattern that restricts the instantiation of a class to one object.”
+
+I would rather say that singleton pattern ensures that single instance of a class is created and shared among all other objects in an application.
