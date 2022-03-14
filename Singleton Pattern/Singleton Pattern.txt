@@ -24,4 +24,19 @@ When we don't make our class sealed. It is possible to create object within the 
 
 Double check locking: https://en.wikipedia.org/wiki/Double-checked_locking
 
+Lazy Loading vs Eager Initialization
+
+Lazy Loading
+ - Improves the performance
+ - Avoids unnecessary load till the point object is accessed
+ - Reduces the memory footprint on the start up
+ - Faster application load
+
+Eager Loading or Non Lazy Loading
+ - Preinstantiation of the object
+ - Commonly used in lower memory footprints
+
+Lazy Initializaion : https://weblogs.asp.net/morteza/Why_and_how_to_use_lazy_initialization_in_Csharp_using_LazyT_API
+
+
 
