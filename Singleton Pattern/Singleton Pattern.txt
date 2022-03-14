@@ -18,4 +18,7 @@ Implementation Guidelines
   - Providing static method that returns a reference to the instance
   - The instance is stored as a private static variable
 
+Why need sealed class when we already using private constructor?
+Private constructor helps in preventing any external instantiation of object but sealed will prevent Inheritance
+
 
