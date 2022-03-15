@@ -1,8 +1,8 @@
-Day 0: March 14, 2021 
+**Day 0: March 14, 2021**
 
-Today's Progress: Singleton design pattern.
+Today's Topic : **[Singleton design pattern](https://github.com/SaiSanthosh97/100DaysOfCode/tree/develop/Singleton%20Pattern)**.
 
-Learnings:
+**Learnings/Progress**:
 - What is Singleton Pattern
 - Double Check Locking
 - Static vs Singleton
