@@ -1,0 +1,2 @@
+Q: Can you store different data types in an Array?
+A: Yes, if you create an object array or use ArrayList.
