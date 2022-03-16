@@ -1,0 +1,7 @@
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\bin\Debug\JaggedArray.exe.config
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\bin\Debug\JaggedArray.exe
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\bin\Debug\JaggedArray.pdb
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\obj\Debug\JaggedArray.exe
+C:\SS074972\100DaysOfCode\InterviewQA\Arrays\JaggedArray\obj\Debug\JaggedArray.pdb
