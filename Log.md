@@ -17,3 +17,14 @@ Today's Topic : **[Exception Logging by implementing Singleton](https://github.c
 - Implemented it by using MVC Entity Framework
 - Had run into few blockers. System.UnauthorizedException when i try to write the exception into the .txt.
 - Don't know the actual root cause or how to fix it. But I changed a bit of logic there.
+
+
+**Day 2: March 16, 2021**
+
+Today's Topic: Revisiting my Interview experiences 
+
+**Learnings/Progress**:
+- [Storing different data types in an Array](https://github.com/SaiSanthosh97/MyStack/tree/develop/InterviewQA/Arrays/Arrays)
+- Jagged Array
+- Abstarct class- Why and When?
+- Advantages of using Interfaces
