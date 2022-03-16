@@ -21,20 +21,17 @@ namespace Logger
         }
         public void LogException(string message)
         {
-            
-            string fileName = "Exception" + DateTime.Today.ToString("dd-MM-yy") + ".txt";
-
             string filepath = AppDomain.CurrentDomain.BaseDirectory;
-            if(!Directory.Exists(filepath))
+            if (!Directory.Exists(filepath))
             {
                 Directory.CreateDirectory(filepath);
             }
-            
+
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("----------------------------------------");
             sb.AppendLine(DateTime.Now.ToString());
             sb.AppendLine(message);
-            using (StreamWriter writer = new StreamWriter(filepath + "/Log/Error.txt",false))
+            using (StreamWriter writer = new StreamWriter(filepath + "/Log/Error.txt", false))
             {
                 writer.Write(sb.ToString());
                 writer.Flush();

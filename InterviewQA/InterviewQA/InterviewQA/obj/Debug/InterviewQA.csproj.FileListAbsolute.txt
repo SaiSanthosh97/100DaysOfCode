@@ -1,0 +1,7 @@
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\bin\Debug\InterviewQA.exe.config
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\bin\Debug\InterviewQA.exe
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\bin\Debug\InterviewQA.pdb
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\obj\Debug\InterviewQA.csproj.AssemblyReference.cache
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\obj\Debug\InterviewQA.csproj.CoreCompileInputs.cache
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\obj\Debug\InterviewQA.exe
+C:\SS074972\100DaysOfCode\InterviewQA\InterviewQA\InterviewQA\obj\Debug\InterviewQA.pdb
