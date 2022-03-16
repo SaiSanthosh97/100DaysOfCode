@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace InterviewQA
 {
@@ -41,7 +37,7 @@ namespace InterviewQA
             ArrayList arrayList = new ArrayList();
             arrayList.Add(0);
             arrayList.Add("Zero");
-            foreach(var al in arrayList)
+            foreach (var al in arrayList)
             {
                 Console.WriteLine(al);
             }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C4295D4E-0F16-4B77-8F41-63F72D98222A}</ProjectGuid>
+    <ProjectGuid>{5E452676-079A-4DBA-809A-9E231AD891B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InterviewQA</RootNamespace>
-    <AssemblyName>InterviewQA</AssemblyName>
+    <RootNamespace>Arrays</RootNamespace>
+    <AssemblyName>Arrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
