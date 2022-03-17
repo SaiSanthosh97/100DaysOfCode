@@ -25,6 +25,13 @@ Today's Topic: Revisiting my Interview experiences
 
 **Learnings/Progress**:
 - [Storing different data types in an Array](https://github.com/SaiSanthosh97/MyStack/tree/develop/InterviewQA/Arrays/Arrays)
-- Jagged Array
-- Abstarct class- Why and When?
+- [Jagged Array](https://github.com/SaiSanthosh97/MyStack/blob/develop/InterviewQA/Arrays/JaggedArray/Program.cs)
+
+
+**Day 3: March 17, 2021**
+
+Today's Topic: Revisiting my Interview experiences 
+
+**Learnings/Progress**:
+- [Abstarct class- Why and When?](https://github.com/SaiSanthosh97/MyStack/blob/develop/InterviewQA/Abstract/AbstractQA.md)
 - Advantages of using Interfaces
