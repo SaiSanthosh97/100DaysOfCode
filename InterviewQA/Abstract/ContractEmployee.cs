@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    class ContractEmployee
+    class ContractEmployee : BaseEmployee
     {
         public int HourlyPay { get; set; }
         public int TotalHoursWorked { get; set; }
 
-        public int GetMonthlySalary()
+        public override int GetMonthlySalary()
         {
             return this.HourlyPay * this.TotalHoursWorked;
         }

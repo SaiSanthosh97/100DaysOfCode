@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Abstract
 {
-    class BaseEmployee
+    public abstract class BaseEmployee
     {
         public int ID { get; set; }
         public string FirstName { get; set; }
@@ -17,9 +13,7 @@ namespace Abstract
             return this.FirstName + " " + LastName;
         }
 
-        public virtual int GetMonthlySalary()
-        {
-            throw new NotImplementedException();
-        }
+        public abstract int GetMonthlySalary();
+        
     }
 }

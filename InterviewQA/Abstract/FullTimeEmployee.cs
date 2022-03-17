@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    class FullTimeEmployee
+    class FullTimeEmployee : BaseEmployee
     {
         public int AnnualSalary { get; set; }
 
-        public int GetMonthlySalary()
+        public override int GetMonthlySalary()
         {
             return this.AnnualSalary / 12;
         }
