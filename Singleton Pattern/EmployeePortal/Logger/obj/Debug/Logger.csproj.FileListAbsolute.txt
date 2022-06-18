@@ -1,6 +1,0 @@
-C:\SS074972\100DaysOfCode\Singleton Pattern\EmployeePortal\Logger\bin\Debug\Logger.dll
-C:\SS074972\100DaysOfCode\Singleton Pattern\EmployeePortal\Logger\bin\Debug\Logger.pdb
-C:\SS074972\100DaysOfCode\Singleton Pattern\EmployeePortal\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
-C:\SS074972\100DaysOfCode\Singleton Pattern\EmployeePortal\Logger\obj\Debug\Logger.dll
-C:\SS074972\100DaysOfCode\Singleton Pattern\EmployeePortal\Logger\obj\Debug\Logger.pdb
-C:\SS074972\100DaysOfCode\Singleton Pattern\EmployeePortal\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache

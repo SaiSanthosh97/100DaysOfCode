@@ -1,7 +1,0 @@
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\bin\Debug\Interface.exe.config
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\bin\Debug\Interface.exe
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\bin\Debug\Interface.pdb
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\obj\Debug\Interface.exe
-C:\SS074972\100DaysOfCode\InterviewQA\Interface\obj\Debug\Interface.pdb

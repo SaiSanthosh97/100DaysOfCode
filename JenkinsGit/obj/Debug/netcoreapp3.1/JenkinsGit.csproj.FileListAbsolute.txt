@@ -1,0 +1,14 @@
+C:\Users\SS074972\source\repos\JenkinsGit\bin\Debug\netcoreapp3.1\JenkinsGit.exe
+C:\Users\SS074972\source\repos\JenkinsGit\bin\Debug\netcoreapp3.1\JenkinsGit.deps.json
+C:\Users\SS074972\source\repos\JenkinsGit\bin\Debug\netcoreapp3.1\JenkinsGit.runtimeconfig.json
+C:\Users\SS074972\source\repos\JenkinsGit\bin\Debug\netcoreapp3.1\JenkinsGit.runtimeconfig.dev.json
+C:\Users\SS074972\source\repos\JenkinsGit\bin\Debug\netcoreapp3.1\JenkinsGit.dll
+C:\Users\SS074972\source\repos\JenkinsGit\bin\Debug\netcoreapp3.1\JenkinsGit.pdb
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.csproj.AssemblyReference.cache
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.AssemblyInfoInputs.cache
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.AssemblyInfo.cs
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.csproj.CoreCompileInputs.cache
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.dll
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.pdb
+C:\Users\SS074972\source\repos\JenkinsGit\obj\Debug\netcoreapp3.1\JenkinsGit.genruntimeconfig.cache

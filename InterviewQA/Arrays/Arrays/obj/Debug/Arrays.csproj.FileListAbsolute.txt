@@ -1,7 +1,0 @@
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\bin\Debug\Arrays.exe.config
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\bin\Debug\Arrays.exe
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\bin\Debug\Arrays.pdb
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\obj\Debug\Arrays.exe
-C:\SS074972\100DaysOfCode\InterviewQA\Arrays\Arrays\obj\Debug\Arrays.pdb

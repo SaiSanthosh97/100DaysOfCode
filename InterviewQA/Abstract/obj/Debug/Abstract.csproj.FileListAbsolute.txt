@@ -1,7 +1,0 @@
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\bin\Debug\Abstract.exe.config
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\bin\Debug\Abstract.exe
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\bin\Debug\Abstract.pdb
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\obj\Debug\Abstract.exe
-C:\SS074972\100DaysOfCode\InterviewQA\Abstract\obj\Debug\Abstract.pdb
